@@ -1,4 +1,3 @@
-```markdown
 # 📊 Análise Comparativa de Bancos de Dados: PostgreSQL e ObjectDB
 
 Este projeto é parte do trabalho de conclusão do curso de Ciência da Computação da Universidade Estadual do Norte do Paraná (UENP). Ele explora e compara características, vantagens e desvantagens de bancos de dados relacionais e orientados a objetos, utilizando **PostgreSQL** e **ObjectDB** como exemplos práticos.
